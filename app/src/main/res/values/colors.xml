@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorPrimaryNight">#607D8B</color>
+    <color name="colorPrimaryDarkNight">#455A64</color>
+    <color name="colorAccentNight">#9E9E9E</color>
+    <color name="colorTextSwitch">#000000</color>
+    <color name="colorTextSwitchNight">#FFFFFF</color>
+
+
+
+</resources>
